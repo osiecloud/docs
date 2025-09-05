@@ -7,7 +7,7 @@
     "light": "#07C983",
     "dark": "#15803D"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "https://onie.net/wp-content/uploads/2025/08/icon.png",
   "navigation": {
     "tabs": [
       {
@@ -89,7 +89,7 @@
     }
   },
   "logo": {
-    "light": "https://onie.net/wp-content/uploads/2025/08/onie-dark.png",
+    "light": "https://onie.net/wp-content/uploads/2025/08/onie-white.png",
     "dark": "https://onie.net/wp-content/uploads/2025/08/onie-dark.png"
   },
   "navbar": {
