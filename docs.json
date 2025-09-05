@@ -89,8 +89,8 @@
     }
   },
   "logo": {
-    "light": "https://onie.net/wp-content/uploads/2025/08/onie-white.png",
-    "dark": "https://onie.net/wp-content/uploads/2025/08/onie-dark.png"
+    "light": "https://onie.net/wp-content/uploads/2025/08/onie-dark.png",
+    "dark": "https://onie.net/wp-content/uploads/2025/08/onie-white.png"
   },
   "navbar": {
     "links": [
